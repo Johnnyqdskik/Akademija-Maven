@@ -1,0 +1,2 @@
+# Akademija-Maven
+Maven project
